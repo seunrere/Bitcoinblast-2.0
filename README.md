@@ -20,4 +20,4 @@ php bot.php <br>
 
 *** if you have massage "your key is up to date" click enter on your device and click y to start a script
 
-<a href="https://ibb.co/7yhMC7d"><img src="https://i.ibb.co/7yhMC7d/bitcoinblast.jpg" alt="bitcoinblast" border="0"></a>
+<a href="https://ibb.co/7yhMC7d"><img src="https://i.ibb.co/C0LC8x3/bitcoinblast.jpg" alt="bitcoinblast" border="0"></a>
