@@ -6,6 +6,7 @@ BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 Installation (termux)<br>
 apt update && apt upgrade -y<br>
+pkg update && pkg upgrade -y<br>
 pkg install php<br>
 pkg install nano<br>
 pkg install git<br>
